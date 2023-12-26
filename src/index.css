@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+  .nav-link:hover .nav-link-hover {
+    @apply flex z-10;
+  }
+} */
